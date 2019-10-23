@@ -14,12 +14,23 @@ Notebooks:
 Sequence2Sequence_LSTM.ipynb:
 
 	Results: true word recognition: 45%
-	              character recognition: 42%
+	         character recognition: 42%
+	         
+Sequence2Sequence_Bi-LSTM.ipynb:
 
+	Results: true word recognition: 50%
+			 character recognition: 46%
+
+Sequence2Sequence_Bi-GRU.ipynb:
+
+	Results: true word recognition: 55%
+			 character recognition: 47%
+			 
 Sequence2Sequence_GRU.ipynb:
 
 	Results: true word recognition: 55%
-	      	     character recognition: 49%
+	      	 character recognition: 49%
+	      	 
 —————————————————————————————————————————————
 
 Reference: https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
